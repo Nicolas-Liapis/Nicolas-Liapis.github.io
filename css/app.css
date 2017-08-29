@@ -9,15 +9,6 @@ h4 {
   font-weight: 700;
 }
 
-.icons {
-  fill: white;
-  margin: 20px 0;
-
-}
-
-.margin {
-  margin-bottom: 2rem;
-}
 
 .black {
   color: #212529;
@@ -27,6 +18,7 @@ h4 {
   border-radius: 5px;
 
 }
+
 
 /*Footer styles*/
 
