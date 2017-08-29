@@ -1,0 +1,46 @@
+/*Main styles*/
+
+body a, p, input{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+}
+
+.icons {
+  fill: white;
+  margin: 20px 0;
+
+}
+
+.margin {
+  margin-bottom: 2rem;
+}
+
+.black {
+  color: #212529;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  background: #e9ecef;
+  border-radius: 5px;
+
+}
+
+/*Footer styles*/
+
+.space {
+  margin: 1rem;
+  padding: .5rem;
+}
+
+.blacken {
+  background: #212529;
+  color: white;
+}
+
+.small {
+  font-size: .8rem;
+  margin-top: 4rem;
+}
