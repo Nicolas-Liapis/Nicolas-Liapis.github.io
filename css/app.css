@@ -43,3 +43,11 @@ h4 {
   font-size: .8rem;
   margin-top: 4rem;
 }
+
+/*Media queries-tablet breakpoint*/
+
+@media screen and (min-width: 768px) {
+  .footer-button {
+    display: none;
+  }
+}
