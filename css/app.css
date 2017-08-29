@@ -14,9 +14,16 @@ h4 {
   color: #212529;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
-  background: #e9ecef;
+  background: rgba(232, 235, 238, 0.9);
   border-radius: 5px;
+}
 
+.sm-black {
+  color: #212529;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  background: rgba(232, 235, 238, 0.9);
+  border-radius: 5px;
 }
 
 
