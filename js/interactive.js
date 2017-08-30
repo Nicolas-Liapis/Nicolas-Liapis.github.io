@@ -1,5 +1,5 @@
 function email() {
-  document.getElementById('email').innerHTML = "nicolas.liapis.dev@gmail.com"
+  document.getElementById('email').innerHTML = "nicolas.liapis.dev@gmail.com";
 }
 
 $('#email').click(function() {
