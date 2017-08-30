@@ -39,15 +39,37 @@ h4 {
   color: white;
 }
 
-.small {
-  font-size: .8rem;
-  margin-top: 4rem;
+
+/*popup*/
+
+#popup {
+  cursor: help;
 }
 
-/*Media queries-tablet breakpoint*/
+/*Media queries & tablet breakpoints*/
+
+@media screen and (min-width: 319px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .small {
+    font-size: .5rem;
+  }
+}
 
 @media screen and (min-width: 768px) {
+
+  h1 {
+    font-size: 3rem;
+  }
+
   .footer-button {
     display: none;
+  }
+
+  .small {
+    font-size: .8rem;
+    margin-top: 4rem;
   }
 }

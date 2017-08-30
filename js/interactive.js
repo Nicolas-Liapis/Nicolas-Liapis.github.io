@@ -8,3 +8,7 @@ $('#email').click(function() {
     height: "toggle"
   }, 10000, function() {});
 });
+
+$('#popup').click(function() {
+  alert('Stop poking me and click on the sandwich if you want to learn more!');
+});
