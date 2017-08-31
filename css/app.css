@@ -56,6 +56,11 @@ h4 {
   .small {
     font-size: .5rem;
   }
+
+  .arrows {
+  background: rgba(108, 109, 113, 0.69);
+  width: 7%;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -71,5 +76,11 @@ h4 {
   .small {
     font-size: .8rem;
     margin-top: 4rem;
+  }
+
+  .arrows {
+  background: rgba(108, 109, 113, 0.69);
+  width: 5%;
+
   }
 }
